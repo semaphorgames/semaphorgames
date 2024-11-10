@@ -2,4 +2,4 @@
 
 <h3 align="center">Creating Lethal Dose - Watch some gameplay!</h3>
 
-[![](https://markdown-videos-api.jorgenkh.no/youtube/{i9QQSLYArJs})](https://youtu.be/{i9QQSLYArJs})
+[![YouTube](http://i.ytimg.com/vi/i9QQSLYArJs/hqdefault.jpg)](https://www.youtube.com/watch?v=i9QQSLYArJs)
