@@ -5,7 +5,4 @@
   <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1683450/header.jpg">
 </p>
 
-<p align="center">
-<a href="https://store.steampowered.com/app/1683450/Lethal_Dose/">
-</a>
-</p>
+<iframe src="https://store.steampowered.com/widget/1683450/" frameborder="0" width="646" height="190"></iframe>
