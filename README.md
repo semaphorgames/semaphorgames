@@ -3,7 +3,5 @@
 <h3 align="center">Lethal Dose, coming soon to Early Access. Watch some gameplay!</h3>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=i9QQSLYArJs">
-  <img src="http://i.ytimg.com/vi/i9QQSLYArJs/hqdefault.jpg">
-  </a>
+  <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1683450/header.jpg">
 </p>
