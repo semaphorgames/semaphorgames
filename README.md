@@ -18,10 +18,10 @@
 
 ### Some art from Lethal Dose:
 
-<img src="" width="45%"></img>
-<img src="" width="45%"></img>
-<img src="" width="45%"></img>
-<img src="" width="45%"></img>
+<img src="art 01.png" width="45%"></img>
+<img src="art 02.png" width="45%"></img>
+<img src="art 03.png" width="45%"></img>
+<img src="art 04.png" width="45%"></img>
 
 #
 # More from me:
