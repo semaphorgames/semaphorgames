@@ -18,10 +18,10 @@
 
 ### Some art from Lethal Dose:
 
-<img src="image (4).png" width="45%"></img>
-<img src="mansion insta 1.png" width="45%"></img>
-<img src="new.png" width="45%"></img>
-<img src="fail screen.png" width="45%"></img>
+<img src="" width="45%"></img>
+<img src="" width="45%"></img>
+<img src="" width="45%"></img>
+<img src="" width="45%"></img>
 
 #
 # More from me:
