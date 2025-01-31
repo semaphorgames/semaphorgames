@@ -30,5 +30,5 @@
 
 #### I post art of Lethal Dose on my Instagram:<br> https://www.instagram.com/lethaldosegame/
 
-#### I do a little video editing for fun, I post these on TikTok:<br> https://www.tiktok.com/@lethaldosegame
+#### I do a little video editing for fun, I make goofy videos and post them on TikTok:<br> https://www.tiktok.com/@lethaldosegame
 
