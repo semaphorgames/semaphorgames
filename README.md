@@ -26,12 +26,12 @@
 #
 # More from me:
 
-<p><b>YouTube: </b>Videos of Lethal Dose and some other projects</p>
-<a href="https://www.youtube.com/@lethaldosegame/videos"><img src="socials youtube.png" width="40%"/></a>
+<table>
+<tr>
+<td><p><b>YouTube: </b>Lethal Dose and other projects<br><a href="https://www.youtube.com/@lethaldosegame/videos"><img src="socials youtube.png"/></a></p></td>
 
-<p><b>Instagram: </b>Art of Lethal Dose</p>
-<a href="https://www.instagram.com/lethaldosegame/"><img src="socials insta.png" width="45%"/></a>
+<td><p><b>Instagram: </b>Art<br><a href="https://www.instagram.com/lethaldosegame/"><img src="socials insta.png"/></a></p></td>
 
-<p><b>TikTok: </b>I do a lil video editing for fun and post vids here</p>
-<a href="https://www.tiktok.com/@lethaldosegame"><img src="socials tiktok.png" width="30%"/></a>
-
+<td><p><b>TikTok: </b>Goofy videos<br><a href="https://www.tiktok.com/@lethaldosegame"><img src="socials tiktok.png"/></a></p></td>
+</tr>
+</table>
