@@ -28,10 +28,10 @@
 
 <table>
 <tr>
-<td><p><b>YouTube: </b>Lethal Dose and other projects<br><a href="https://www.youtube.com/@lethaldosegame/videos"><img src="socials youtube.png"/></a></p></td>
+<td width="33%"><p><b>YouTube: </b>Lethal Dose and other projects<br><a href="https://www.youtube.com/@lethaldosegame/videos"><img src="socials youtube.png"/></a></p></td>
 
-<td><p><b>Instagram: </b>Art<br><a href="https://www.instagram.com/lethaldosegame/"><img src="socials insta.png"/></a></p></td>
+<td width="33%"><p><b>Instagram: </b>Art<br><a href="https://www.instagram.com/lethaldosegame/"><img src="socials insta.png"/></a></p></td>
 
-<td><p><b>TikTok: </b>Goofy videos<br><a href="https://www.tiktok.com/@lethaldosegame"><img src="socials tiktok.png"/></a></p></td>
+<td width="33%"><p><b>TikTok: </b>Goofy videos<br><a href="https://www.tiktok.com/@lethaldosegame"><img src="socials tiktok.png"/></a></p></td>
 </tr>
 </table>
