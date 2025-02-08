@@ -27,8 +27,11 @@
 # More from me:
 
 #### Videos of Lethal Dose and some other projects can be found on my YouTube:<br> https://www.youtube.com/@lethaldosegame/videos
+<img src="socials youtube.png" width="40%"></img>
 
 #### I post art of Lethal Dose on my Instagram:<br> https://www.instagram.com/lethaldosegame/
+<img src="socials insta.png" width="45%"></img>
 
 #### I do a little video editing for fun, I make goofy videos and post them on TikTok:<br> https://www.tiktok.com/@lethaldosegame
+<img src="socials tiktok.png" width="30%"></img>
 
